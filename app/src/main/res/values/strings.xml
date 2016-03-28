@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Infinite Scroll Example</string>
+
+
+    <!-- Title string array -->
+    <string-array name="title">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Valencia</item>
+        <item>Sevilla</item>
+        <item>Zaragoza</item>
+        <item>Málaga</item>
+        <item>Murcia</item>
+        <item>Bilbao</item>
+    </string-array>
+
+    <!-- Location string array -->
+    <string-array name="location">
+        <item>Comunidad de Madrid</item>
+        <item>Cataluña</item>
+        <item>Comunidad Valenciana</item>
+        <item>Andalucía</item>
+        <item>Aragón</item>
+        <item>Andalucía</item>
+        <item>Murcia</item>
+        <item>País Vasco</item>
+    </string-array>
+
+    <!-- Year string array -->
+    <string-array name="description">
+        <item>Madrid is a south-western European city, the capital of Spain, and the largest municipality of the Community of Madrid.
+            The population of the city is almost 3.2 million with a metropolitan area population of approximately 6.5 million.
+            It is the third-largest city in the European Union, after London and Berlin, and its metropolitan area is the third-largest in the European Union after London and Paris.
+            The city spans a total of 604.3 km2 \n Source: Wikipedia</item>
+        <item>Barcelona is the capital city of the autonomous community of Catalonia in Spain and Spain\'s second most populated city,
+            with a population of 1.6 million within its administrative limits. Its urban area extends beyond the administrative city
+            limits with a population of around 4.7 million people, being the seventh-most populous urban area in the European Union after
+            Paris, London, Madrid, the Ruhr area, Berlin and Milan. It is the largest metropolis on the Mediterranean Sea,
+            located on the coast between the mouths of the rivers Llobregat and Besòs,
+            and bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 metres (1,680 ft) high.
+            \n Source: Wikipedia</item>
+        <item>Valencia, is the capital of the autonomous community of Valencia and the third largest city in Spain after Madrid and Barcelona,
+            with around 800,000 inhabitants in the administrative centre. Its urban area extends beyond the administrative city limits with a population of around 1.5 million people.
+            Valencia is Spain\'s third largest metropolitan area, with a population ranging from 1.7 to 2.5 million.
+            The Port of Valencia is the 5th busiest container port in Europe and the busiest container port on the Mediterranean Sea.
+            The city is ranked at Gamma in the Globalization and World Cities Research Network.
+         \n Source: Wikipedia</item>
+        <item>Seville is the capital and largest city of the autonomous community of Andalusia and the province of Seville, Spain.
+            It is situated on the plain of the River Guadalquivir. The inhabitants of the city are known as sevillanos (feminine form: sevillanas) or hispalenses,
+            after the Roman name of the city, Hispalis. Seville has a municipal population of about 703,000 as of 2011, and a metropolitan population of about 1.5 million,
+            making it the fourth-largest city in Spain and the 30th most populous municipality in the European Union.
+            Its Old Town, the third largest in Europe with an area of 4 square kilometres (2 sq mi),
+            contains three UNESCO World Heritage Sites: the Alcázar palace complex, the Cathedral and the General Archive of the Indies.
+            The Seville harbour, located about 80 kilometres (50 miles) from the Atlantic Ocean, is the only river port in Spain. Seville is also the hottest major metropolitan area in Europe,
+            with summer average high temperatures of above 35 °C.
+        \n Source: Wikipedia</item>
+        <item>Zaragoza, also called Saragossa in English,
+            is the capital city of the Zaragoza province and of the autonomous community of Aragon, Spain.
+            It lies by the Ebro river and its tributaries, the Huerva and the Gállego,
+            roughly in the center of both Aragon and the Ebro basin.
+        \n Source: Wikipedia</item>
+        <item>Málaga is a municipality, capital of the Province of Málaga,
+            in the Autonomous Community of Andalusia, Spain. With a population of 568,479 in 2013,
+            it is the second most populous city of Andalusia and the sixth largest in Spain.
+            The southernmost large city in Europe, it lies on the Costa del Sol (Coast of the Sun) of the Mediterranean,
+            about 100 km (62.14 mi) east of the Strait of Gibraltar and about 130 km (80.78 mi) north of Africa.
+         \n Source: Wikipedia</item>
+        <item>Murcia is a city in south-eastern Spain, the capital and most populous city of the Autonomous Community of the Region of Murcia,
+            and the seventh largest city in the country, with a population of 442,573 inhabitants in 2009 (about one third of the total population of the Region).
+            The population of the metropolitan area was 689,591 in 2010. It is located on the Segura River,
+            in the Southeast of the Iberian Peninsula, noted by a climate with hot summers, mild winters, and relatively low precipitation.
+        \n Source: Wikipedia</item>
+        <item>Bilbao is a municipality and city in Spain, a major city in the province of Biscay in the autonomous community of the Basque Country.
+            It is the largest municipality of the Basque Country and the tenth largest in Spain,
+            with a population of 353,187 in 2010.The Bilbao metropolitan area has roughly 1 million inhabitants,
+            making it one of the most populous metropolitan areas in northern Spain; with a population of 875,552 the comarca of Greater
+            Bilbao is the fifth-largest urban area in Spain. Bilbao is also the main urban area in what is defined as the Greater Basque region.
+            \n Source: Wikipedia</item>
+    </string-array>
+    <string name="title_activity_tabbed">Infinite Scroll Example</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+
+</resources>

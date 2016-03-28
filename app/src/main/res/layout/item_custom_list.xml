@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@android:color/white"
+    android:padding="@dimen/view_padding" >
+
+    <ImageView
+        android:id="@+id/list_imageview"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/view_padding"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="fitCenter" />
+
+    <LinearLayout
+        android:id="@+id/list_item_holder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/list_imageview"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/list_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/view_padding"
+
+            android:text="title"
+            android:ellipsize="start"
+            android:textColor="@color/colorAccent"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/list_location"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/view_padding"
+            android:text="location"
+            android:ellipsize="start"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="15dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
